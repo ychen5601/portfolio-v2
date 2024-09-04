@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Portfolio v2
+
+The second (final) iteration of my portfolio website.
+
+#### Milestones
+
+- [ ] Frontend
+- [ ] Deployment on VM
+- [ ] CI/CD
+
 
 ## Getting Started
 
